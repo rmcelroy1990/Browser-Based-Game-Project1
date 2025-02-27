@@ -2,9 +2,12 @@ const gameBoard = document.getElementById('game-board');
 const cardsData = ['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D'];
 let flippedCards = [];
 let matchedCards = [];
+let score = 0;
+
+document.querySelector('.score').textContent = score;
 
 function shuffleCards(array) {
-    for (let i = array.length - 1; i > 0; i--) {
+    for (let i = cardsData.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [array[i], array[j]] = [array[j], array[i]];
     }

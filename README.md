@@ -5,7 +5,7 @@
 🧠This is a concentration game to test your memory.🧠
 🌈Each color represents an energy.🌈
 
-**Match Your Energy:** I chose to create this game because I like a good brain game to test your memmory. I also didnt want to select the easiest but I knew where my skills reside currently. Although still a challenge, I truly enjoyed watching the components come to life from nothing. Enjoy! 
+**Match Your Energy:** I chose to create this game because I like a good brain game to test your memory. I also didn't want to select the easiest game option but I knew where my skills reside currently. Although still a challenge, I truly enjoyed watching the components come to life from nothing. Enjoy! 
 
 ## **How to Play:**
 + Click on 2 cards at a time to find a match. 🩷❤️🧡💛💚🩵💙💜

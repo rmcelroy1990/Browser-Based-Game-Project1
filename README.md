@@ -1,6 +1,5 @@
 # Ready to Match Your Energy?
 
-![game logo](http)
 
 This is a concentration game to test your memory. Each color represents an energy
 

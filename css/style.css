@@ -1,7 +1,9 @@
 body {
     min-height: 100vh;
     min-width: 85vw;
-    background-color: #F0EFEF
+    background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ3d3FkeWR3amRvOHd5dnF2Y2owNGQ0ZG0wbWxodTdoMzg1OXAxbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgpernHLP5eWOY0/giphy.gif);
+    background-position: right;
+    background-repeat: repeat;
 }
 
 #game-board {
@@ -11,7 +13,7 @@ body {
     grid-gap: 18px;
     justify-content: center;
     transform-style: preserve-3d;
-    
+
 }
 
 .card {
@@ -86,7 +88,7 @@ p {
 
 .actions button {
     padding: 10px 20px;
-    font-size: 25px;
+    font-size: 15px;
     border-radius: 10px;
     background-color: ff8dd4;
     justify-content: center;

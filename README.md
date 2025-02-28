@@ -1,14 +1,11 @@
 # Ready to Match Your Energy?
 
-![game logo](http)
+![Stay Positive All In This Together GIF by INTO ACTION](https://github.com/user-attachments/assets/1e63096c-e980-4c5a-9874-039de46b10ea)
 
 This is a concentration game to test your memory. Each color represents an energy
 
-Screenshot/Logo: A screenshot of your app or a logo.
 
 Match Your Enery: I chose to create this game because I like a good brain game to test your memmory. I also didnt want to select the easiest but I knew where my skills reside currently. Although still a challenge, I truly enjoyed watching the components come to life from nothing. Enjoy! 
-
-![color chart](https://stsci-opo.org/STScI-01F9HJTVKCVGP0KR14352SVB3D.jpg)
 
 How to Play:
 + Click on 2 cards at a time to find a match.

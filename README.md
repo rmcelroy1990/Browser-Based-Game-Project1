@@ -12,6 +12,9 @@
 + You have 3 chances to find the matching colors before you loose.
 + Find all 4 and Match Your Winning energy! 🎉🎉
 
+<img width="940" alt="Screenshot 2025-02-28 at 11 48 41 AM" src="https://github.com/user-attachments/assets/ac941883-5158-426e-8ff6-b93df84342f3" />
+
+
 ### **What colors represent what energy?**
 Here's a quick breakdown:
 + ❤️Red: Energy, passion, excitement, and strength.
